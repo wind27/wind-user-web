@@ -45,11 +45,6 @@
 
 		<dependency>
 			<groupId>com.wind</groupId>
-			<artifactId>wind-commons</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.wind</groupId>
 			<artifactId>wind-framework</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
